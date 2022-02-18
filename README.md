@@ -2,3 +2,4 @@
      Wave-3D
      Descend Leaves
      Product Display
+     Emoji Animation
