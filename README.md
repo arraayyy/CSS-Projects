@@ -3,3 +3,4 @@
      Descend Leaves
      Product Display
      Emoji Animation
+     Smoke Effects
